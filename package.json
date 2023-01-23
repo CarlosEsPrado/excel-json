@@ -1,0 +1,15 @@
+{
+  "name": "excel-json",
+  "version": "1.0.0",
+  "description": "Convert excel file to JSON",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "cp_dev",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
